@@ -1,5 +1,5 @@
 aiml==0.8.6
-aiohttp==2.1.0
+aiohttp==3.7.4
 apiai==1.2.3
 appdirs==1.4.0
 apt-clone==0.2.1
