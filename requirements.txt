@@ -78,7 +78,7 @@ pluggy==0.3.1
 portend==1.8
 prompt-toolkit==1.0.13
 ptyprocess==0.5
-py==1.4.31
+py==1.10.0
 pyasn1==0.1.9
 pycrypto==2.6.1
 pycups==1.9.73
