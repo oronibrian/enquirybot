@@ -123,7 +123,7 @@ traitlets==4.3.1
 ubuntu-drivers-common==0.0.0
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.13.1
+urllib3==1.26.5
 uvloop==0.8.0
 virtkey==0.63.0
 virtualenv==15.0.1
